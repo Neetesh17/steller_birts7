@@ -1,1 +1,1 @@
-# steller_birts7
+# Stellar-Workshop-Template
